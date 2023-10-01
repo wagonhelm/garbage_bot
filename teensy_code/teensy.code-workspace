@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/teensy"
+		},
+		{
+			"name": "GarbageBot",
+			"path": "."
+		},
+		{
+			"name": "GarbageBotZephyr",
+			"path": "../GarbageBotZephyr"
+		}
+	],
+	"settings": {}
+}
